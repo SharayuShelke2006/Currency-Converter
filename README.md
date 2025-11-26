@@ -20,8 +20,7 @@ Simple and user-friendly interface built with HTML & CSS.
 
 Frontend: HTML, CSS, JavaScript
 
-API: Live Currency Exchange API (like ExchangeRate-API or similar)
-
+API: Live Currency Exchange API 
 No Backend Needed — Fully client-side app
 
 📚 What I Learned
