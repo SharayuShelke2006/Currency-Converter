@@ -49,3 +49,5 @@ Select the currencies
 Enter the amount
 
 Get the converted value instantly
+<img width="1888" height="839" alt="image" src="https://github.com/user-attachments/assets/45dae6cc-6b5d-47eb-b60e-5e57d76d7d75" />
+
